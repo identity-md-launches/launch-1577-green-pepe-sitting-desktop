@@ -1,0 +1,17 @@
+{
+  "output_path": "artifacts/image.png",
+  "format": "image/png",
+  "width": 1536,
+  "height": 1024,
+  "bytes": 2503248,
+  "sha256": "2c3a050fa63872db534134a91237064bdd863086deb91f8559840fc1a5a96c00",
+  "generation_tool": "installed mcp image generate_image",
+  "review": "PNG signature, dimensions, all chunk CRCs and IEND checked; image visually inspected",
+  "unmet_visual_requirements": [
+    "The imd.fun homepage is a stylized interpretation rather than an exact screenshot.",
+    "Coffee is held close to the mouth; an active sip is not unambiguously depicted."
+  ],
+  "representation_notes": [
+    "Hundreds of Telegram messages are conveyed by the readable 347 unread messages indicator and stacked chat bubbles."
+  ]
+}
